@@ -1,5 +1,11 @@
 # Hello World 👋
+A self-taught programmer who always try to learn something new and interesting. And pretty comfortable with JavaScript, ReactJs, Python, Django, Golang and Flutter.
 
+[![Linkedin Badge](https://img.shields.io/badge/-jauharuddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jauhar-uddin-8a6120223/)](https://www.linkedin.com/in/jauhar-uddin-8a6120223/)
+[![Instagram Badge](https://img.shields.io/badge/-jauhar_note-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jauhar_note/)](https://www.instagram.com/jauhar_note/)
+<!-- [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna) -->
+<!-- [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi) -->
+[![Gmail Badge](https://img.shields.io/badge/-jauharnotes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jauharnotes@gmail.com)](jauharnotes@gmail.com)
 ## Tech Stack
 
 <table>
@@ -59,7 +65,8 @@
   </tbody>
 </table>
 
-<a href="https://www.linkedin.com/in/jauhar-uddin-8a6120223/">
+
+<!-- <a href="https://www.linkedin.com/in/jauhar-uddin-8a6120223/">
   <img align="left" alt="jauhar - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 <a href="https://www.instagram.com/jauhar_note/">
@@ -70,7 +77,7 @@
 </a>
 <a href="https://t.me/jauharID/">
   <img align="left" alt="jauhar - Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>
-</a>
+</a> -->
 <br />
 <br />
 
