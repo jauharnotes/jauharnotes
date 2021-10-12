@@ -3,9 +3,8 @@ A self-taught programmer who always try to learn something new and interesting. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-jauharuddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jauhar-uddin-8a6120223/)](https://www.linkedin.com/in/jauhar-uddin-8a6120223/)
 [![Instagram Badge](https://img.shields.io/badge/-jauhar_note-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jauhar_note/)](https://www.instagram.com/jauhar_note/)
-<!-- [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna) -->
-<!-- [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi) -->
 [![Gmail Badge](https://img.shields.io/badge/-jauharnotes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jauharnotes@gmail.com)](jauharnotes@gmail.com)
+
 ## Tech Stack
 
 <table>
@@ -81,12 +80,10 @@ A self-taught programmer who always try to learn something new and interesting. 
 <br />
 <br />
 
-A self-taught programmer who always try to learn something new and interesting. And pretty comfortable with JavaScript, ReactJs, Python, Django, Golang and Flutter.
-
-✔ Development<br>
+<!-- ✔ Development<br>
 ✔ Consulting <br>
 ✔ Security Audits<br>
-✔ Research<br>
+✔ Research<br> -->
 
 Contact:<br>
 jauharnotes@gmail.com<br>
