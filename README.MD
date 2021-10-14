@@ -64,6 +64,8 @@ A self-taught programmer who always try to learn something new and interesting. 
   </tbody>
 </table>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jauharnotes&show_icons=true)
+
 
 <!-- <a href="https://www.linkedin.com/in/jauhar-uddin-8a6120223/">
   <img align="left" alt="jauhar - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
