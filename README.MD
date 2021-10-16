@@ -65,6 +65,8 @@ A self-taught programmer who always try to learn something new and interesting. 
 </table>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jauharnotes&show_icons=true)
+<br>
+<br>
 <img src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="Welcome!" width="500"/>
 
 
