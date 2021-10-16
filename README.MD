@@ -89,4 +89,4 @@ A self-taught programmer who always try to learn something new and interesting. 
 
 Contact:<br>
 jauharnotes@gmail.com<br>
-https://www.instagram.com/jauhar_note<br>
+https://www.instagram.com/jauhar_notes<br>
