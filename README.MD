@@ -26,6 +26,14 @@ A self-taught programmer who always try to learn something new and interesting. 
         <strong>Vue</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
+       <td width="16%" align="center">
+        <strong>Dart</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/dart.svg">
+      </td>
+       <td width="16%" align="center">
+        <strong>Flutter</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/flutter.svg">
+      </td>
       <td width="16%" align="center">
         <strong>Git</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/git-icon.svg">
@@ -56,17 +64,31 @@ A self-taught programmer who always try to learn something new and interesting. 
         <strong>AWS</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
+       <td width="16%" align="center">
+        <strong>firebase</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/firebase.svg">
+      </td>
       <td width="16%" align="center">
         <strong>Docker</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/docker.svg">
+      </td>
+       <td width="16%" align="center">
+        <strong>MySql</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>
+       <td width="16%" align="center">
+        <strong>MongoDB</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+      </td>
+       <td width="16%" align="center">
+        <strong>ExpressJs</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/express.svg">
       </td>
     </tr>
   </tbody>
 </table>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jauharnotes&show_icons=true)
-
-<img src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="Welcome!" width="500"/>
 
 
 <!-- <a href="https://www.linkedin.com/in/jauhar-uddin-8a6120223/">
