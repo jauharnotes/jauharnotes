@@ -1,5 +1,11 @@
-# Hello World 👋
-A self-taught programmer who always try to learn something new and interesting. And pretty comfortable with JavaScript, ReactJs, Python, Golang and Flutter.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akash chowrasia</h1>
+<h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
+<br>
+<p align="center" A self-taught programmer who always try to learn something new and interesting. And pretty comfortable with JavaScript, ReactJs, Python, Golang and Flutter.</p>
+
+<p align="center"
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-jauharuddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jauhar-uddin-8a6120223/)](https://www.linkedin.com/in/jauhar-uddin-8a6120223/)
 [![Instagram Badge](https://img.shields.io/badge/-jauhar_note-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jauhar_note/)](https://www.instagram.com/jauhar_note/)
@@ -87,8 +93,22 @@ A self-taught programmer who always try to learn something new and interesting. 
     </tr>
   </tbody>
 </table>
+<br>
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jauharnotes&show_icons=true)
+[![jauhar GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jauharnotes&theme=tokyonight)](https://git.io/praveenscience)
+<br>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/jauharnotes">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jauharnotes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jauharnotes&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jauharnotes&show_icons=true) -->
 
 
 <!-- <a href="https://www.linkedin.com/in/jauhar-uddin-8a6120223/">
