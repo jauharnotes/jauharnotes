@@ -42,12 +42,12 @@ A self-taught programmer who always try to learn something new and interesting. 
         <strong>Golang</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/go.svg">
       </td>
-    </tr>
-    <tr valign="top">
-      <td width="16%" align="center">
+       <td width="16%" align="center">
         <strong>Python</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
+    </tr>
+    <tr valign="top">
       <td width="16%" align="center">
         <strong>Tailwincss</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/tailwindcss.svg">
