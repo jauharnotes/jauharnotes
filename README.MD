@@ -1,5 +1,5 @@
 # Hello World 👋
-A self-taught programmer who always try to learn something new and interesting. And pretty comfortable with JavaScript, ReactJs, Python, Django, Golang and Flutter.
+A self-taught programmer who always try to learn something new and interesting. And pretty comfortable with JavaScript, ReactJs, Python, Golang and Flutter.
 
 [![Linkedin Badge](https://img.shields.io/badge/-jauharuddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jauhar-uddin-8a6120223/)](https://www.linkedin.com/in/jauhar-uddin-8a6120223/)
 [![Instagram Badge](https://img.shields.io/badge/-jauhar_note-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jauhar_note/)](https://www.instagram.com/jauhar_note/)
