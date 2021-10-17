@@ -95,7 +95,7 @@
 <br>
 <br>
 
-[![jauhar GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jauharnotes&theme=algolia)](https://git.io/praveenscience)
+[![jauharuddin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jauharnotes&theme=algolia)](https://git.io/praveenscience)
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
