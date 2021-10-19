@@ -133,3 +133,5 @@
 Contact:<br>
 jauharnotes@gmail.com<br>
 https://www.instagram.com/jauhar_notes<br>
+ <br>
+ <p align="center">##### Made with ❤️ by [Jauharuddin](https://github.com/jauharnotes)<p/>
