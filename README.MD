@@ -28,12 +28,28 @@
         <img height="48px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="16%" align="center">
-        <strong>Vue</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/vue.svg">
+        <strong>Typescript</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
        <td width="16%" align="center">
+        <strong>Golang</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/go.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>Python</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="16%" align="center">
         <strong>Dart</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/dart.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>ReactJS</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>Vue</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
        <td width="16%" align="center">
         <strong>Flutter</strong><br><br><br>
@@ -43,27 +59,11 @@
         <strong>Git</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-      <td width="16%" align="center">
-        <strong>Golang</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/go.svg">
-      </td>
-       <td width="16%" align="center">
-        <strong>Python</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
     </tr>
     <tr valign="top">
       <td width="16%" align="center">
         <strong>Tailwincss</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/tailwindcss.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>Typescript</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>ReactJS</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="16%" align="center">
         <strong>AWS</strong><br><br><br>
