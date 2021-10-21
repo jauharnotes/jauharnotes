@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jauharuddin</h1>
-<h3 align="center">Software Engineer | Technical Content Writer | Full Stack Developer</h3>
+<h3 align="center">Software Engineer | Full Stack Developer| UI UX Designer</h3>
 <p align="center"> A self-taught programmer who always try to learn something new and interesting. And pretty comfortable with JavaScript, ReactJs, Python, Golang and Flutter.</p>
 
 <p align="center"
@@ -7,7 +7,7 @@
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-jauharuddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jauhar-uddin-8a6120223/)](https://www.linkedin.com/in/jauhar-uddin-8a6120223/)
-[![Instagram Badge](https://img.shields.io/badge/-jauhar_note-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jauhar_note/)](https://www.instagram.com/jauhar_note/)
+[![Instagram Badge](https://img.shields.io/badge/-jauhar_notes-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jauhar_notes/)](https://www.instagram.com/jauhar_notes/)
 [![Gmail Badge](https://img.shields.io/badge/-jauharnotes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jauharnotes@gmail.com)](mailto:jauharnotes@gmail.com)
 
 ## Tech Stack
