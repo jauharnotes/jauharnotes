@@ -51,7 +51,9 @@
         <strong>Vue</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
-       <td width="16%" align="center">
+    </tr>
+    <tr valign="top">
+      <td width="16%" align="center">
         <strong>Flutter</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/flutter.svg">
       </td>
@@ -59,8 +61,6 @@
         <strong>Git</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="16%" align="center">
         <strong>Tailwincss</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/tailwindcss.svg">
