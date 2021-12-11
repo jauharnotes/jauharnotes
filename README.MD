@@ -40,8 +40,8 @@
         <img height="48px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="16%" align="center">
-        <strong>Dart</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/dart.svg">
+        <strong>C++</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
       </td>
       <td width="16%" align="center">
         <strong>ReactJS</strong><br><br><br>
