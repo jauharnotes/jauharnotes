@@ -4,13 +4,12 @@
 
 <p align="center"
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-<br>
+</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-jauharuddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jauhar-uddin-8a6120223/)](https://www.linkedin.com/in/jauhar-uddin-8a6120223/)
 [![Instagram Badge](https://img.shields.io/badge/-jauhar_notes-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jauhar_notes/)](https://www.instagram.com/jauhar_notes/)
 [![Gmail Badge](https://img.shields.io/badge/-jauharnotes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jauharnotes@gmail.com)](mailto:jauharnotes@gmail.com)
 
-</p>
 
 ## Tech Stack
 
