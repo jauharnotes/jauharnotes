@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jauharuddin</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | UI UX Designer</h3>
+<h3 align="center">Tech enthusiast | Full Stack Developer | UI UX Designer</h3>
 <p align="center"> A self-taught programmer who always try to learn something new and interesting. And pretty comfortable with JavaScript, ReactJs, Python, Golang and Flutter.</p>
 
 <p align="center"
