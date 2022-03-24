@@ -33,7 +33,7 @@
         <img height="48px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
       <td width="16%" align="center">
-        <strong>Typescript</strong><br><br><br>
+        <strong>PHP</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
        <td width="16%" align="center">
@@ -87,7 +87,7 @@
         <img height="48px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
       <td width="16%" align="center">
-        <strong>MySql</strong><br><br><br>
+        <strong>Laravel</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/laravel.svg">
       </td>
        <td width="16%" align="center">
